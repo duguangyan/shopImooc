@@ -1,6 +1,6 @@
 # shopImooc
 
-自己的跟imooc学习的一个php项目
+自己的跟imooc学习的一个php简单项目--基于原生php
 ----------------------------
 首页        http://du-u.top/shopImooc
 
